@@ -12,7 +12,7 @@ const skills = [
   { name: 'AI / ML', icon: '🤖', category: 'Speciality' },
   { name: 'n8n', icon: '⚡', category: 'Automation' },
   { name: 'Docker', icon: '🐳', category: 'DevOps' },
-  { name: 'Git', icon: '🔀', category: 'Tool' },
+  { name: 'Git', icon: '🔀', category: 'Version Control' },
 ]
 
 export default function Skills() {
