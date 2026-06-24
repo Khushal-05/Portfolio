@@ -165,8 +165,8 @@ I'm always eager to learn new technologies and build impactful software solution
 
 ## 🤝 Connect With Me
 
-- 🌐 Portfolio: https://your-domain.com
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
+- 🌐 Portfolio: https://ks-portfolio-seven.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/khushal-sainiwal/
 - 🐙 GitHub: https://github.com/Khushal-05
 - 📧 Email: ksainiwal05@gmail.com
 
