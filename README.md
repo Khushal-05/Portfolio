@@ -10,10 +10,8 @@ A modern, responsive, and interactive developer portfolio built with **React**, 
 
 ## 📸 Preview
 
-```
 ![Screenshot 1](src/assets/image1.png)
 ![Screenshot 2](src/assets/image2.png)
-```
 
 ---
 
